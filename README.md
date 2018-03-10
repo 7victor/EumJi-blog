@@ -4,8 +4,29 @@
 
 这个项目是使用spring boot + thymeleaf 开发个人博客项目.
 
-演示站下线了.太烧钱了.....<br>
-大家看看就好了,如果有毅力自己部署上线也是可以的.
+演示站 http://blog.eumji025.com <br>
+
+## 展示
+首页展示部分
+
+![首页](http://of8rkrh1w.bkt.clouddn.com//2017/05/18/my-blog-home.png)
+
+文章详情页
+
+![文章详情](http://of8rkrh1w.bkt.clouddn.com//2017/05/18/my-blog-article.png)
+
+关于我
+
+![关于作者](http://of8rkrh1w.bkt.clouddn.com//2017/05/18/my-blog-aboutme.png)
+
+后端总览界面
+
+![后台管理界面](http://of8rkrh1w.bkt.clouddn.com//2017/05/18/my-blog-admin-article-list.png)
+
+markdown编辑器
+
+![markdown界面](http://of8rkrh1w.bkt.clouddn.com//2017/05/18/my-blog-article-markdown.png)
+
 
 # 用户部分说明
 
