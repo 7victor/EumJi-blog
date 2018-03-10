@@ -12,7 +12,7 @@ import org.springframework.security.config.annotation.web.configuration.WebSecur
 
 /**
  * FILE: com.eumji.zblog.config.WebSecurityAdapter.java
- * MOTTO:  不积跬步无以至千里,不积小流无以至千里
+ * MOTTO:  不积跬步无以至千里,不积小流无以至江海
  * @author: EumJi
  * DATE: 2017/4/9
  * TIME: 9:33
@@ -33,7 +33,7 @@ public class WebSecurityAdapter extends WebSecurityConfigurerAdapter {
 
     @Override
     public void configure(WebSecurity web) {
-        web.ignoring().antMatchers("**/js/**", "**/css/**", "/vendor/**", "/image/**", "/admin/lib/**","/admin/plugins/**");
+        web.ignoring().antMatchers("/**/*.*");
     }
 
 

@@ -19,7 +19,7 @@ import java.net.URL;
  * 防止勿推送到我的域名,所以注释了
  * 请自己在application.yml文件中配置
  * FILE: com.eumji.zblog.task.BaiduTask.java
- * MOTTO:  不积跬步无以至千里,不积小流无以至千里
+ * MOTTO:  不积跬步无以至千里,不积小流无以至江海
  * @author: EumJi
  * DATE: 2017/4/28
  * TIME: 20:23

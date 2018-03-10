@@ -14,7 +14,7 @@ import java.util.List;
 /**
  * 后端管理的页面跳转controller
  * FILE: com.eumji.zblog.controller.admin.AdminPageController.java
- * MOTTO:  不积跬步无以至千里,不积小流无以至千里
+ * MOTTO:  不积跬步无以至千里,不积小流无以至江海
  * @author: EumJi
  * DATE: 2017/4/9
  * TIME: 21:55

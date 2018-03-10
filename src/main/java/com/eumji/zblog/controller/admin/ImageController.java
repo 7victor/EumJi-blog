@@ -58,7 +58,7 @@ public class ImageController {
      * @return
      */
     @RequestMapping("/admin/avatar/update")
-    public PhotoResult updateAvatar(HttpServletRequest request,String avatarSrc, String avatarData, @RequestParam(value = "avatar_file",required = true) MultipartFile file){
+    public PhotoResult updateAvatar(HttpServletRequest request,String avatarSrc, @RequestParam(value = "avatar_data") String avatarData, @RequestParam(value = "avatar_file",required = true) MultipartFile file){
         PhotoResult result = null;
         String type = file.getContentType();
         if(type==null || !type.toLowerCase().startsWith("image/")) {

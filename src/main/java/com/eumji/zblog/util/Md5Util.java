@@ -9,7 +9,7 @@ import java.security.MessageDigest;
 /**
  * md5加密工具类
  * FILE: com.eumji.zblog.util.Md5Util.java
- * MOTTO:  不积跬步无以至千里,不积小流无以至千里
+ * MOTTO:  不积跬步无以至千里,不积小流无以至江海
  * @author: EumJi
  * DATE: 2017/4/9
  * TIME: 15:34

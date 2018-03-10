@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * 用户信息实体
  * FILE: com.eumji.zblog.vo.PhotoResult.java
- * MOTTO:  不积跬步无以至千里,不积小流无以至千里
+ * MOTTO:  不积跬步无以至千里,不积小流无以至江海
  * @author: EumJi
  * DATE: 2017/4/21
  * TIME: 22:20

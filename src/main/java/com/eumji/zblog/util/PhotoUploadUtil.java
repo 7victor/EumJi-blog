@@ -20,7 +20,7 @@ import java.util.Calendar;
  *
  * 2017年5月22日 修改硬编码 wei
  * FILE: com.eumji.zblog.util.PhotoUploadUtil.java
- * MOTTO:  不积跬步无以至千里,不积小流无以至千里
+ * MOTTO:  不积跬步无以至千里,不积小流无以至江海
  * @author: EumJi
  * DATE: 2017/4/21
  * TIME: 22:08

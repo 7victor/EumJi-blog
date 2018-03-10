@@ -16,7 +16,7 @@ import java.util.Map;
 /**
  * 首页入口controller
  * FILE: com.eumji.zblog.controller.IndexController.java
- * MOTTO:  不积跬步无以至千里,不积小流无以至千里
+ * MOTTO:  不积跬步无以至千里,不积小流无以至江海
  * @author: EumJi
  * DATE: 2017/4/8
  * TIME: 15:19
